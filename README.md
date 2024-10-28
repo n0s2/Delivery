@@ -1,5 +1,5 @@
 # 基于Vue.js的信息报送系统
-
+Vue.js + Node.js + MySQL
 # 界面展示
 ![image](https://github.com/user-attachments/assets/a475bd08-8ab2-4ec9-b2fa-593caf0ca3b1)
 ![image](https://github.com/user-attachments/assets/bc275116-f8a9-4b03-b5c3-d353a4cdfef7)
