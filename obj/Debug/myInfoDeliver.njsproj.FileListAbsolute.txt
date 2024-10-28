@@ -1,0 +1,3 @@
+C:\Users\Administrator\Desktop\xt\myInfoDeliver\myInfoDeliver\obj\Debug\myInfoDeliver.njsproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\xt\myInfoDeliver\myInfoDeliver\obj\Debug\myInfoDeliver.njsproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\xt\myInfoDeliver\myInfoDeliver\bin\Microsoft.NodejsTools.WebRole.dll
