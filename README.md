@@ -1,4 +1,4 @@
-# myInfoDeliver
+# 基于Vue.js的信息报送系统
 
 ## Project setup
 ```
